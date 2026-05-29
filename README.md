@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[Sam]&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Sam&fontSize=40&animation=fadeIn" width="100%" />
 
   <p align="center">
     <strong>Sammyy | 0x80Methoxy</strong>
@@ -35,7 +35,6 @@ I am a software developer focused on building clean, efficient, and maintainable
 ## Featured Projects
 
 ### [blockmango_userinfo](https://github.com/MethoxyFy/blockmango_userinfo)
-> A concise, professional summary describing the purpose and core functionality of this project.
 * **Architecture:** Build using python with simple module like requests
 * **Performance:** Simple usable and good results.
 ---
