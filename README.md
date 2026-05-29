@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[Your%20Name]&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[Sam]&fontSize=40&animation=fadeIn" width="100%" />
 
   <p align="center">
     <strong>Sammyy | 0x80Methoxy</strong>
