@@ -7,7 +7,6 @@
 
   <p align="center">
     <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Global-blue?style=for-the-badge" alt="Portfolio"></a>
-    <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge" alt="LinkedIn"></a>
     <a href="mailto:methoxypy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge" alt="Email"></a>
   </p>
 </div>
@@ -17,9 +16,9 @@
 ## About Me
 I am a software developer focused on building clean, efficient, and maintainable applications. I enjoy solving complex algorithmic problems, optimizing performance, and learning low-level system architectures.
 
-* **Current Focus:** Developing [Name of your primary project]
-* **Areas of Interest:** Backend Engineering, System Design, and Open Source Software
-* **Technical Writing:** I occasionally write about software engineering concepts on my blog
+* **Current Focus:** Not much due to college
+* **Areas of Interest:** Backend Engineering, System Design, Reverse Engineering
+* **Technical Writing:** Not Right Now
 
 ---
 
@@ -35,16 +34,10 @@ I am a software developer focused on building clean, efficient, and maintainable
 
 ## Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [blockmango_userinfo](https://github.com/MethoxyFy/blockmango_userinfo)
 > A concise, professional summary describing the purpose and core functionality of this project.
-* **Architecture:** Built using a microservices pattern with React and Node.js.
-* **Performance:** Optimized database queries, reducing data retrieval latency by 35%.
-
-### [Project Name 2](https://github.com/yourusername/project2)
-> A concise, professional summary describing the purpose and core functionality of your second project.
-* **Architecture:** Developed with Python and FastAPI, featuring full asynchronous task execution.
-* **Deployment:** Containerized using Docker for consistent cross-environment deployment.
-
+* **Architecture:** Build using python with simple module like requests
+* **Performance:** Simple usable and good results.
 ---
 
 ## GitHub Analytics
